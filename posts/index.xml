@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on howsun</title>
     <link>https://hsun7.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on howsun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 16 Apr 2020 17:18:47 -0700</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://hsun7.github.io/posts/my-first-post/</link>
+      <link>https://hsun7.github.io/my-first-post/</link>
       <pubDate>Thu, 16 Apr 2020 17:18:47 -0700</pubDate>
       
-      <guid>https://hsun7.github.io/posts/my-first-post/</guid>
+      <guid>https://hsun7.github.io/my-first-post/</guid>
       <description>Once that is set up, you should be able to customize it! If you navigate back to our Minimal theme’s documentation page you should find a small guide on using the parameters to customize the aesthetics of your site. Once you’re done making your site beautiful, you can navigate back to Hugo’s Getting Started page and generate actual content for your site. Generating content on your Hugo site is super important because Hugo won’t generate your subpages unless there is content to display (or if your content is in draft: true).</description>
     </item>
     
