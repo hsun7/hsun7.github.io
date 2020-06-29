@@ -6,10 +6,19 @@
     <description>Recent content in Posts on howsun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2020 13:43:30 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 16:16:43 -0700</lastBuildDate>
     
 	<atom:link href="https://hsun7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another test</title>
+      <link>https://hsun7.github.io/another_test/</link>
+      <pubDate>Mon, 29 Jun 2020 16:16:43 -0700</pubDate>
+      
+      <guid>https://hsun7.github.io/another_test/</guid>
+      <description>test test test</description>
+    </item>
     
     <item>
       <title>Sec_post</title>
